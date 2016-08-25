@@ -1,0 +1,6 @@
+name: CaptureTheWool-WorldRestorer
+main: com.gmail.lynx7478.ctw.worldrestorer.WorldRestorer
+author: SKA4
+version: 1.0
+loadbefore: [CaptureTheWool]
+description: A world restorer for Capture the Wool plugin.
